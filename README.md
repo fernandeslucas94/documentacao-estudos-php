@@ -21,7 +21,7 @@
 </p>
 
 <p>
-    Após se certificar que o servidor Apache está rodando, execute o seguinte comando no terminal, tendo ciência de que, atraveś do terminal, você esteja dentro do diretório correto: <em>php -S localhost:8000</em>.
+    Após se certificar que o servidor Apache está rodando, execute o seguinte comando no terminal, tendo ciência de que, atraveś do terminal, você esteja dentro do diretório correto: <bold>php -S localhost:8000</bold>.
 </p>
 
 <p>
