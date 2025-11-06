@@ -1,6 +1,6 @@
 ## Documentação de estudos sobre PHP
 
-<h1>O que é?</h1>
+<h2>O que é?</h2>
 
 <p>
     Este repositório contém toda a documentação, a qual é atualizada regularmente, sobre meus estudos de PHP.
