@@ -11,6 +11,8 @@
  * 
  * Os dados contidos nas variáveis, como o próprio nome diz, pode variar. Pode-se declarar uma variável com um determindo valor, porém, em um momento posterior da aplicação, pode-se alterar o valor da variável para outro que seja desejado.
  * 
+ * As variáveis somente podem conter núemros, letras e underline (sublinhado).
+ * 
  * Vejamos abaixo alugns exemplos de declaração e utilização de variáveis.
  */
 
@@ -27,3 +29,9 @@ $nomeCompleto = "$nome $sobrenome";
 
 // Exemplo de snake case
 $aluno_esta_matriculado = true;
+
+// Formas que podemos escrever o nome da variável
+$_variavel1;
+$variavel2;
+$umaVariavelQualquer;
+$uma_variavel_qualquer;
