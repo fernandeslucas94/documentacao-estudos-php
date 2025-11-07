@@ -9,7 +9,7 @@
 </p>
 
 <p>
-    Constantemente, estarei atualizando a documentação de acordo com o desenvolvimento dos estudos. Nesta documentação, estarão presentes desde conceitos básicos da linguagem, lógcia de progamação, até conceitos mais aprofundados.
+    Constantemente, estarei atualizando a documentação de acordo com o desenvolvimento dos estudos. Nesta documentação, estarão presentes desde conceitos básicos da linguagem, lógica de progamação, até conceitos mais aprofundados.
 </p>
 
 
