@@ -20,7 +20,6 @@ if($possuiCadastro) {
     echo "Não poderá realizar login. Efetue cadastro.";
 }
 
-echo "<br/>";
 
 // No exemplo acima, podemos verificar outra particularidade da lógica booleana. Ao realizarmos a verificação, caso o valor seja verdadeiro, não é necessário, dentro dos parênteses, adicionar os sinais de igual (==) e o valor true. Por padrão, na verificação, o valor é true. Somente em casos onde precisamos verificar se o valor é falso, adicionamos os dois sinais de igual e a palavra false, como no exemplo: if ($possuiCadastro == false) {...}.
 
